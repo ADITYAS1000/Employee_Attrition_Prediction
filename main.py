@@ -45,4 +45,4 @@ def predict():
 #run method starts our web server
 #debug True: Restarts server based on any code change
 if __name__ == '__main__':
-    app.run(debug=True, host = '127.0.0.1', port=9696)
+    app.run(debug=True)
