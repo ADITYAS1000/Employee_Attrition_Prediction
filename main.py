@@ -6,7 +6,7 @@ Created on Fri Oct 16 00:11:26 2020
 """
 import pickle # to load model
 from flask import Flask, request, render_template
-import predict_attr
+from ml_model import predict_attr
 
 app = Flask("Employee Attrition")
 
