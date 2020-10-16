@@ -82,16 +82,16 @@ input[type=text]
 	font-size:15vw;
 	color:#000000;
 	font-weight:500;
-	margin-bottom:15px;
-	line-height:25px;
+	margin-bottom:15vw;
+	line-height:25vw;
 	width:40%;
 	border:1px solid #aaa;
 	border-radius:4px;
-	margin:8px 0;
+	margin:8vw 0;
 	outline:none;
-	padding:8px;
-	height:45px;
-	margin-right:10px;
+	padding:8vw;
+	height:45vw;
+	margin-right:10vw;
 	font-family: 'Montserrat', sans-serif;
 }
 
@@ -108,7 +108,7 @@ input[type=submit]
 	cursor:pointer;
 	margin:auto;
 	float:left;
-	margin-left:190vw;
+	/*margin-left:190vw;*/
 	display:inline;
 }
 
@@ -125,7 +125,7 @@ input[type=reset]
 	cursor:pointer;
 	margin:auto;
 	float:right;
-	margin-right:230vw;
+	/*margin-right:230vw;*/
 	display:inline;
 }
 
