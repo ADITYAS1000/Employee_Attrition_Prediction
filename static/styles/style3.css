@@ -108,7 +108,7 @@ input[type=submit]
 	cursor:pointer;
 	margin:auto;
 	float:left;
-	/*margin-left:190vw;*/
+	margin-left:190vw;
 	display:inline;
 }
 
@@ -125,7 +125,7 @@ input[type=reset]
 	cursor:pointer;
 	margin:auto;
 	float:right;
-	/*margin-right:230vw;*/
+	margin-right:230vw;
 	display:inline;
 }
 
