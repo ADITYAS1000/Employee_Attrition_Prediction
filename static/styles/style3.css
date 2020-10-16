@@ -79,7 +79,7 @@ body{
 
 input[type=text]
 {
-	font-size:15px;
+	font-size:15vw;
 	color:#000000;
 	font-weight:500;
 	margin-bottom:15px;
@@ -101,14 +101,14 @@ input[type=submit]
 	color:#ffffff;
 	
 	border:none;
-	padding:10px 20px 10px 20px;
-	border-radius:10px;
-	font-size: 18px;
+	padding:10vw 20vw 10vw 20vw;
+	border-radius:10vw;
+	font-size: 18vw;
 	font-family: 'Montserrat', sans-serif;
 	cursor:pointer;
 	margin:auto;
 	float:left;
-	margin-left:190px;
+	margin-left:190vw;
 	display:inline;
 }
 
@@ -118,14 +118,14 @@ input[type=reset]
 	color:#ffffff;
 	
 	border:none;
-	padding:10px 25px 10px 25px;
-	border-radius:10px;
-	font-size: 18px;
+	padding:10vw 25vw 10vw 25vw;
+	border-radius:10vw;
+	font-size: 18vw;
 	font-family: 'Montserrat', sans-serif;
 	cursor:pointer;
 	margin:auto;
 	float:right;
-	margin-right:230px;
+	margin-right:230vw;
 	display:inline;
 }
 
