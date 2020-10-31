@@ -2,7 +2,7 @@
 """
 Created on Fri Oct 16 00:11:26 2020
 
-@author: SAMRUDDHI
+@author: Aditya
 """
 import pickle # to load model
 from flask import Flask, request, render_template
